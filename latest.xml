@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Campus Events</title>
+    <link>https://youruniversity.edu/events</link>
+    <description>Upcoming events at your university</description>
+
+    <item>
+      <title>Welcome Week Concert</title>
+      <link>https://youruniversity.edu/events/welcome-concert</link>
+      <description>Join us for a live concert to kick off Welcome Week! Free for all students.</description>
+      <pubDate>Wed, 25 Sep 2024 19:00:00 +0000</pubDate>
+      <guid>https://youruniversity.edu/events/welcome-concert</guid>
+      <image>
+        <url>https://images.unsplash.com/photo-1516747773446-abb68879fae0</url>
+        <title>Welcome Week Concert Image</title>
+        <link>https://youruniversity.edu/events/welcome-concert</link>
+      </image>
+    </item>
+
+    <item>
+      <title>Career Fair 2024</title>
+      <link>https://youruniversity.edu/events/career-fair</link>
+      <description>Meet top employers and discover career opportunities. Don't forget to bring your resume!</description>
+      <pubDate>Thu, 26 Sep 2024 10:00:00 +0000</pubDate>
+      <guid>https://youruniversity.edu/events/career-fair</guid>
+      <image>
+        <url>https://images.unsplash.com/photo-1542744173-8e7e53415bb0</url>
+        <title>Career Fair Image</title>
+        <link>https://youruniversity.edu/events/career-fair</link>
+      </image>
+    </item>
+
+  </channel>
+</rss>
